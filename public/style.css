@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(public/108201-aeveizlzly-1544899613.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.para1 {
+    padding-top: 170px;
+}
+
+.para2 {
+    padding-top: 20px;
+}
+
+.data {
+    padding-top: 60px;
+    font-style: normal;
+}
+
+.login-in {
+    padding-left: 1190px;
+    font-weight: bold;
+}
+
+.terms {
+    line-height: 0.5;
+}
+
+.hp-text {
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.p-text {
+    text-align: left;
+    margin-left: 30px;
+    line-height: 1.7;
+}
