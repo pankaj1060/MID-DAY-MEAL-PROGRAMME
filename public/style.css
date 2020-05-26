@@ -19,6 +19,7 @@ body {
 }
 
 .login-in {
+    position: relative;
     padding-left: 1190px;
     font-weight: bold;
 }
